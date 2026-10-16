@@ -60,7 +60,7 @@ audio.addEventListener('loadedmetadata', () => {
 
 // Cronômetro
 // Data do início do nosso namoro (Ano-Mês-DiaT00:00:00)
-const startDate = new Date('2023-10-13T16:00:00'); 
+const startDate = new Date('2022-01-01T00:00:00'); 
 
 // 2. Pegar as tags do HTML onde vamos injetar os números
 const yearsEl = document.getElementById('years');
